@@ -1,0 +1,15 @@
+C:\universidad\Parcial Taller 1 2025\Segunda Parte\Trabajo Practico 6\tl1-tp6-2025-franCordobaDeveloper\bin\Debug\net9.0\tl1-tp6-2025-franCordobaDeveloper.exe
+C:\universidad\Parcial Taller 1 2025\Segunda Parte\Trabajo Practico 6\tl1-tp6-2025-franCordobaDeveloper\bin\Debug\net9.0\tl1-tp6-2025-franCordobaDeveloper.deps.json
+C:\universidad\Parcial Taller 1 2025\Segunda Parte\Trabajo Practico 6\tl1-tp6-2025-franCordobaDeveloper\bin\Debug\net9.0\tl1-tp6-2025-franCordobaDeveloper.runtimeconfig.json
+C:\universidad\Parcial Taller 1 2025\Segunda Parte\Trabajo Practico 6\tl1-tp6-2025-franCordobaDeveloper\bin\Debug\net9.0\tl1-tp6-2025-franCordobaDeveloper.dll
+C:\universidad\Parcial Taller 1 2025\Segunda Parte\Trabajo Practico 6\tl1-tp6-2025-franCordobaDeveloper\bin\Debug\net9.0\tl1-tp6-2025-franCordobaDeveloper.pdb
+C:\universidad\Parcial Taller 1 2025\Segunda Parte\Trabajo Practico 6\tl1-tp6-2025-franCordobaDeveloper\obj\Debug\net9.0\tl1-tp6-2025-franCordobaDeveloper.GeneratedMSBuildEditorConfig.editorconfig
+C:\universidad\Parcial Taller 1 2025\Segunda Parte\Trabajo Practico 6\tl1-tp6-2025-franCordobaDeveloper\obj\Debug\net9.0\tl1-tp6-2025-franCordobaDeveloper.AssemblyInfoInputs.cache
+C:\universidad\Parcial Taller 1 2025\Segunda Parte\Trabajo Practico 6\tl1-tp6-2025-franCordobaDeveloper\obj\Debug\net9.0\tl1-tp6-2025-franCordobaDeveloper.AssemblyInfo.cs
+C:\universidad\Parcial Taller 1 2025\Segunda Parte\Trabajo Practico 6\tl1-tp6-2025-franCordobaDeveloper\obj\Debug\net9.0\tl1-tp6-2025-franCordobaDeveloper.csproj.CoreCompileInputs.cache
+C:\universidad\Parcial Taller 1 2025\Segunda Parte\Trabajo Practico 6\tl1-tp6-2025-franCordobaDeveloper\obj\Debug\net9.0\tl1-tp6-2025-franCordobaDeveloper.sourcelink.json
+C:\universidad\Parcial Taller 1 2025\Segunda Parte\Trabajo Practico 6\tl1-tp6-2025-franCordobaDeveloper\obj\Debug\net9.0\tl1-tp6-2025-franCordobaDeveloper.dll
+C:\universidad\Parcial Taller 1 2025\Segunda Parte\Trabajo Practico 6\tl1-tp6-2025-franCordobaDeveloper\obj\Debug\net9.0\refint\tl1-tp6-2025-franCordobaDeveloper.dll
+C:\universidad\Parcial Taller 1 2025\Segunda Parte\Trabajo Practico 6\tl1-tp6-2025-franCordobaDeveloper\obj\Debug\net9.0\tl1-tp6-2025-franCordobaDeveloper.pdb
+C:\universidad\Parcial Taller 1 2025\Segunda Parte\Trabajo Practico 6\tl1-tp6-2025-franCordobaDeveloper\obj\Debug\net9.0\tl1-tp6-2025-franCordobaDeveloper.genruntimeconfig.cache
+C:\universidad\Parcial Taller 1 2025\Segunda Parte\Trabajo Practico 6\tl1-tp6-2025-franCordobaDeveloper\obj\Debug\net9.0\ref\tl1-tp6-2025-franCordobaDeveloper.dll

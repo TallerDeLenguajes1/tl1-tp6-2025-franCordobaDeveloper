@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "tl1-tp6-2025-franCordobaDeveloper/1.0.0": {
+        "runtime": {
+          "tl1-tp6-2025-franCordobaDeveloper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tl1-tp6-2025-franCordobaDeveloper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
